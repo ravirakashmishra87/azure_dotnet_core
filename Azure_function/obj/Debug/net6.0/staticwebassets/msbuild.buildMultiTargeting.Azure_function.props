@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azure_function.props" />
+</Project>

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\Study\\Azure\\AzureFundametal_blobstorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC5CC5D-AA18-415E-A076-D98174C9496F}|..\\RedisCache\\RedisCache.csproj|d:\\ravi\\study\\azure\\rediscache\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC5CC5D-AA18-415E-A076-D98174C9496F}|..\\RedisCache\\RedisCache.csproj|d:\\ravi\\study\\azure\\rediscache\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\Study\\Azure\\RedisCache\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\RedisCache\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\Study\\Azure\\RedisCache\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\RedisCache\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T12:25:37.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\Study\\Azure\\RedisCache\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\RedisCache\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\Study\\Azure\\RedisCache\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\RedisCache\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-02T12:23:44.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
